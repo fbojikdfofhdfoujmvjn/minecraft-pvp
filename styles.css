@@ -8,7 +8,7 @@ body {
 
 /* Header styles */
 .header {
-    background-image: url('images/background.jpg'); /* C:\Users\kk\Documents\minecraft-pvp-modes\images\background.jpg.jpg */
+    background-image: url('background.jpg'); /* C:\Users\kk\Documents\minecraft-pvp-modes\images\background.jpg.jpg */
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
